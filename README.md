@@ -1,5 +1,5 @@
 # MvpDemo  
-MVP架构在Android的使用。
+MVP架构在Android的使用。.
 Okhttp3、Retrofit2、Rxjava3 ，AutoDispose解决RxJava内存泄漏
 
 简书地址：https://www.jianshu.com/p/ae0b21d3238a  
